@@ -1,4 +1,4 @@
-# 🛡️ FBXTool
+# 👁‍🗨 FBXTool
 
 FBXTool is a phishing awareness tool built using React, designed to simulate a playful mock hacking scenario while educating users about online security risks.
 
