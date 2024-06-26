@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fbxtool/static/css/main.6c9854cc.css",
+    "main.js": "/fbxtool/static/js/main.11355834.js",
+    "static/js/453.b70fbd96.chunk.js": "/fbxtool/static/js/453.b70fbd96.chunk.js",
+    "index.html": "/fbxtool/index.html",
+    "main.6c9854cc.css.map": "/fbxtool/static/css/main.6c9854cc.css.map",
+    "main.11355834.js.map": "/fbxtool/static/js/main.11355834.js.map",
+    "453.b70fbd96.chunk.js.map": "/fbxtool/static/js/453.b70fbd96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c9854cc.css",
+    "static/js/main.11355834.js"
+  ]
+}
