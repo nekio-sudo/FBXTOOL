@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fbxtool/static/css/main.6c9854cc.css",
-    "main.js": "/Fbxtool/static/js/main.7343bc10.js",
-    "static/js/453.b70fbd96.chunk.js": "/Fbxtool/static/js/453.b70fbd96.chunk.js",
-    "index.html": "/Fbxtool/index.html",
-    "main.6c9854cc.css.map": "/Fbxtool/static/css/main.6c9854cc.css.map",
-    "main.7343bc10.js.map": "/Fbxtool/static/js/main.7343bc10.js.map",
-    "453.b70fbd96.chunk.js.map": "/Fbxtool/static/js/453.b70fbd96.chunk.js.map"
+    "main.css": "/FBXTOOL/static/css/main.6c9854cc.css",
+    "main.js": "/FBXTOOL/static/js/main.bb6166b5.js",
+    "static/js/453.b70fbd96.chunk.js": "/FBXTOOL/static/js/453.b70fbd96.chunk.js",
+    "index.html": "/FBXTOOL/index.html",
+    "main.6c9854cc.css.map": "/FBXTOOL/static/css/main.6c9854cc.css.map",
+    "main.bb6166b5.js.map": "/FBXTOOL/static/js/main.bb6166b5.js.map",
+    "453.b70fbd96.chunk.js.map": "/FBXTOOL/static/js/453.b70fbd96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c9854cc.css",
-    "static/js/main.7343bc10.js"
+    "static/js/main.bb6166b5.js"
   ]
 }
